@@ -1,0 +1,97 @@
+{
+  "store": {
+    "themes": [
+      "default",
+      "noonsong",
+      "christmas"
+    ],
+    "friends": [
+      "bird",
+      "flower"
+    ]
+  },
+
+  "ranking": [
+    0,1,2
+  ],
+
+  "userList": [
+    "user1",
+    "user2",
+    "user3"
+  ],
+
+  "users": {
+    "user1": {
+      "userInfo": {
+        "password": "1234",
+        "nickname": "noonsong",
+        "email": "29dongsung@naver.com",
+        "age": 17
+      },
+      "gameInfo": {
+        "bugs": 0,
+        "level": 3,
+        "growth-total": 320,
+        "growth-week": 20,
+        "coin": 1000
+      },
+      "items": {
+        "fertilizer": 1,
+        "pesticide": 4,
+        "sunshine": 1,
+        "water": 1,
+        "theme": [ "default" ],
+        "friend": []
+      }
+    },
+
+    "user2": {
+      "userInfo": {
+        "password": "1234",
+        "nickname": "it song",
+        "email": "29dongsung@gmail.com",
+        "age": 22
+      },
+      "gameInfo": {
+        "bugs": 2,
+        "level": 1,
+        "growth-total": 80,
+        "growth-week": 80,
+        "coin": 1000
+      },
+      "items": {
+        "fertilizer": 1,
+        "pesticide": 1,
+        "sunshine": 1,
+        "water": 1,
+        "theme": [ "default" ],
+        "friend": []
+      }
+    },
+
+    "user3": {
+      "userInfo": {
+        "password": "1234",
+        "nickname": "sookmyung",
+        "email": "29dongsung@sookmyung.ac.kr",
+        "age": 20
+      },
+      "gameInfo": {
+        "bugs": 4,
+        "level": 1,
+        "growth-total": 0,
+        "growth-week": 0,
+        "coin": 1000
+      },
+      "items": {
+        "fertilizer": 1,
+        "pesticide": 1,
+        "sunshine": 1,
+        "water": 1,
+        "theme": [ "default" ],
+        "friend": []
+      }
+    }
+  }
+}
